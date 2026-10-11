@@ -1,0 +1,53 @@
+SKYLINE VECTOR - CHANGES FROM MY DESIGN
+=======================================
+
+What I kept from my design
+--------------------------
+- It is a 2D endless flyer. My jet does NOT fall; it stays at its height until I move it.
+- Clicking the top half of the screen moves up one level, and the bottom half moves down one level.
+- My gates move up and down, so the player has to predict where the opening will be.
+- The score goes up for every gate passed, and the game gets faster over time.
+- I have a Start screen, a Game Over screen with the score and high score, and a Play Again button.
+
+What I changed, and why
+-----------------------
+1. I took out the background music.
+   I planned to have background music, but I removed it so my other sounds are
+   easy to hear. Instead, I tied the engine hum to the gameplay: its pitch
+   rises as the game speeds up, so the sound itself tells the player the game
+   is getting harder.
+
+2. I drew my jet as a small red propeller plane.
+   I used the free Kenney "Tappy Plane" art pack so that my plane, sky, ground
+   and gates all share one art style. It still behaves the way I designed the
+   jet (no gravity, moves one level at a time).
+
+3. I made my gates rock spikes (one from the top, one from the bottom).
+
+4. I made my jet fly in 9 fixed levels (lanes).
+   With 9 lanes, the movement is fair and easy to read.
+
+5. I added keyboard controls.
+   The Up/Down arrows (or W/S) work as well as clicking.
+
+6. I space my gates by distance, not by time.
+   This keeps the gates the same distance apart when the game speeds up, so
+   the game gets harder smoothly instead of becoming impossible.
+
+7. I stop the speed-up after 20 gates.
+   I planned for the game to keep getting faster, but in testing it became
+   unplayable. Now the speed stays the same after 20 gates, so a good player
+   can score 100 or more.
+
+8. I added a click ripple.
+   A soft ring appears wherever I click, so people watching my video can see
+   whether I clicked the top half or the bottom half.
+
+9. I added small extras for game feel.
+   My plane tilts when it changes lanes, leaves exhaust puffs, has a spinning
+   propeller, and spins and falls when it crashes. A "NEW BEST!" label shows
+   when the high score is beaten.
+
+10. My sound list.
+    Kept: engine, gate-pass, button, crash, and Game Over sounds.
+    Added: a short sound when the plane changes lanes.

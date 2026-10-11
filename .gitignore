@@ -1,0 +1,19 @@
+# Unity folders that are rebuilt automatically (do not save these in Git)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Videos made by the Unity Recorder (large files; hand in the video separately)
+/[Rr]ecordings/
+
+# Files made by Visual Studio / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user

@@ -1,0 +1,17 @@
+SKYLINE VECTOR - ASSET CREDITS
+==============================
+
+All art, sounds and the font are by Kenney (www.kenney.nl).
+License: Creative Commons Zero (CC0) - free for personal, educational and commercial use.
+
+Art (Assets/Art)       - "Tappy Plane" pack        https://kenney.nl/assets/tappy-plane
+Font (Assets/Fonts)    - "Kenney Fonts" pack        https://kenney.nl/assets/kenney-fonts
+                         KenneyMiniSquare.ttf  = Kenney Mini Square.ttf
+
+Sounds (Assets/Audio)
+  Engine.ogg       = spaceEngine_000.ogg      "Sci-Fi Sounds" pack      https://kenney.nl/assets/sci-fi-sounds
+  Crash.ogg        = explosionCrunch_000.ogg  "Sci-Fi Sounds" pack
+  GatePass.ogg     = confirmation_001.ogg     "Interface Sounds" pack   https://kenney.nl/assets/interface-sounds
+  Move.ogg         = select_001.ogg           "Interface Sounds" pack
+  ButtonClick.ogg  = click_001.ogg            "Interface Sounds" pack
+  GameOver.ogg     = jingles_NES07.ogg        "Music Jingles" pack      https://kenney.nl/assets/music-jingles
